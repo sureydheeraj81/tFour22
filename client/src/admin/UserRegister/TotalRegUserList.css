@@ -1,0 +1,11 @@
+.row-approved {
+    background-color: green !important;
+}
+
+.row-rejected {
+    background-color: red !important;
+}
+
+.row-pending {
+    background-color: aqua !important;
+}
